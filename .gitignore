@@ -1,0 +1,25 @@
+# Python
+server/venv/
+server/__pycache__/
+server/*.sqlite3
+server/.env
+
+# Django
+server/staticfiles/
+server/media/
+
+# Node
+client/node_modules/
+client/dist/
+
+# Environment
+client/.env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
